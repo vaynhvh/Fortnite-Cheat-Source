@@ -1,0 +1,2 @@
+﻿  dllmain.cpp
+C:\Users\vaynh\Desktop\d\dllmain.cpp(926,1): fatal  error C1010: Unerwartetes Dateiende während der Suche nach dem vorkompilierten Header. Haben Sie möglicherweise vergessen, im Quellcode "#include "stdafx.h"" einzufügen?

@@ -1,0 +1,251 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Das Output-Verzeichnis endet nicht mit einem nachstehenden Schrägstrich. Der Schrägstrich wird in dieser Buildinstanz hinzugefügt, da er für die ordnungsgemäße Auswertung des Output-Verzeichnisses erforderlich ist.
+  dllmain.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57679): message : Siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57688): message : Siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57697): message : Siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57706): message : Siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57715): message : Siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57724): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57733): message : Siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57748): message : Siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57757): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57766): message : Siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57775): message : Siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57784): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57793): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57803): message : Siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57812): message : Siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57822): message : Siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57831): message : Siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57841): message : Siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57850): message : Siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57859): message : Siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57869): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(57878): message : Siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(917,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58170): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(918,1): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58179): message : Siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(919,1): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58189): message : Siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\D3D11.h(920,1): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58198): message : Siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58146): message : Siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\winerror.h(58155): message : Siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(5,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": Makro-Neudefinition
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(5,1): message : „_CRT_SECURE_NO_WARNINGS“ wurde zuvor in der Befehlszeile deklariert
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(193,1): warning C4267: "=": Konvertierung von "size_t" nach "int32_t", Datenverlust möglich
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(493,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(558,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(558,53): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(558,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(788,15): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(789,15): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(790,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(792,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(794,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(796,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(798,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(800,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(802,88): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(804,88): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(816,65): warning C4099: "Vector3": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(517): message : Siehe Deklaration von "Vector3"
+C:\Users\nasa\Desktop\UtchGaming\lazyimporter.h(475,1): warning C4267: "Argument": Konvertierung von "size_t" nach "DWORD", Datenverlust möglich
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(999): message : Siehe Verweis auf die gerade kompilierte Instanziierung "decltype(auto) li::detail::lazy_function<69435095,BOOL (__cdecl *)(HANDLE,HMODULE,LPMODULEINFO,DWORD)>::operator ()<HANDLE,HMODULE,MODULEINFO*,size_t>(HANDLE &&,HMODULE &&,MODULEINFO *&&,size_t &&) const" der Funktions-Vorlage.
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(1033,65): warning C4099: "Vector3": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(517): message : Siehe Deklaration von "Vector3"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(1034,65): warning C4099: "Vector3": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(517): message : Siehe Deklaration von "Vector3"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(1127,68): warning C4099: "Vector3": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(517): message : Siehe Deklaration von "Vector3"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(1128,68): warning C4099: "Vector3": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(517): message : Siehe Deklaration von "Vector3"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(1376,65): warning C4099: "Vector3": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(517): message : Siehe Deklaration von "Vector3"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(1435,67): warning C4099: "Vector3": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(517): message : Siehe Deklaration von "Vector3"
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(1509,38): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(271,58): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(273,28): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(278,37): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(287,35): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(324,89): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(343,100): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(350,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(354,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(355,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(356,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(357,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(363,68): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(424,67): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(424,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(428,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(459,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(463,21): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(494,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(501,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(501,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(505,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(505,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(510,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(510,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(514,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(551,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(558,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(558,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(563,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(563,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(567,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(602,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(607,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(640,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(646,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(675,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(680,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(683,26): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(683,24): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(690,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(698,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(699,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(750,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(755,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(766,70): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(771,107): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(771,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(778,107): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(778,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(784,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(785,114): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(825,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(830,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(841,70): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(865,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(866,106): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(866,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(869,114): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(904,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(911,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(911,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(917,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(917,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(921,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(955,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(966,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1059,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1066,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1066,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1071,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1071,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1075,23): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1139,69): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1139,61): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1144,91): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1145,117): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1146,91): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1147,117): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1177,21): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1182,21): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1413,125): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\ZeroGui.h(1413,91): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(56,35): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(56,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(59,29): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(59,26): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(73,29): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(73,26): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(88,42): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(88,39): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(100,9): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(101,9): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(107,34): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(123,34): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(124,34): warning C4244: "=": Konvertierung von "double" in "LONG", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(194,1): warning C4005: "M_PI": Makro-Neudefinition
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(4): message : Siehe vorherige Definition von "M_PI"
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(205,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(206,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(207,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(208,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(222,103): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(222,83): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(223,83): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\NewGUI.h(224,88): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(57,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(57,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(60,35): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(61,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(61,30): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(79,92): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(79,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(82,35): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(83,43): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(83,30): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(149,111): warning C4305: "Argument": Verkürzung von "double" in "float"
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(151,88): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(228,49): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(351,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(383,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(387,42): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(388,50): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(388,37): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(453,49): warning C4305: "Argument": Verkürzung von "double" in "WriteT"
+          with
+          [
+              WriteT=float
+          ]
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(454,49): warning C4305: "Argument": Verkürzung von "double" in "WriteT"
+          with
+          [
+              WriteT=float
+          ]
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(544,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(548,31): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(565,24): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(578,62): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(594,61): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(637,55): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(646,55): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(670,59): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(688,58): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(697,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(704,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(706,81): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(706,71): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(706,67): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(706,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(256,12): warning C4101: "LocalRootComponent": Unreferenzierte lokale Variable
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(819,26): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\nasa\Desktop\UtchGaming\dllmain.cpp(820,27): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+LINK : warning LNK4098: Standardbibliothek "LIBCMTD" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+  Code wird generiert.
+C:\Users\nasa\Desktop\UtchGaming\SDK.h(628): warning C4715: "read<Vector3>": Nicht alle Codepfade geben einen Wert zurück.
+  430 of 1131 functions (38.0%) were compiled, the rest were copied from previous compilation.
+    211 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  utchgaming.vcxproj -> C:\Users\nasa\Desktop\UtchGaming\x64\Release\test.dll

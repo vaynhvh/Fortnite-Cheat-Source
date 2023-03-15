@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{1c8c1a90-8893-4a76-afcd-548b367ca518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\LazyImporter">
+      <UniqueIdentifier>{d10fc127-9c7b-477b-b020-57fe5ee73bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\EncryptString">
+      <UniqueIdentifier>{7c6f7c55-d748-4362-826e-f2a301859ae7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK\UE4 Gui">
+      <UniqueIdentifier>{e616b3e5-1a8d-4446-8876-a3df2d6c24b7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SDK.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="lazyimporter.h">
+      <Filter>SDK\LazyImporter</Filter>
+    </ClInclude>
+    <ClInclude Include="xorstr.h">
+      <Filter>SDK\EncryptString</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Downloads\Neutron.gg-Soruce-master\Neutron.gg-Soruce-master\minhook\MinHook.h" />
+    <ClInclude Include="ZeroGui.h">
+      <Filter>SDK\UE4 Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="NewGUI.h">
+      <Filter>SDK\UE4 Gui</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\Downloads\Neutron.gg-Soruce-master\Neutron.gg-Soruce-master\minhook\minhook.lib" />
+  </ItemGroup>
+</Project>
